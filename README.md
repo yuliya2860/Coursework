@@ -6,5 +6,5 @@
 
 2. coursework.css
 
-[Сайт, который выбран для курсововй работы](http://tk-themes.net/html-organik/)
+[Сайт, который выбран для курсовой работы](http://tk-themes.net/html-organik/)
 
